@@ -9,10 +9,10 @@ var UnminedMapProperties = {
     maxRegionX: 32,
     maxRegionZ: 32,
     worldName: "Season 4",
-    background: "FFFFFF",
+    background: "",
     markers: new Array(),
     enableGrid: true,
     showGrid: true,
     centerX: 0,
-    centerZ: 0
+    centerZ: 300
 }
