@@ -42,6 +42,22 @@
             "offsetY": 7,
             "font": "-",
             "owner": 1250772322198098021
+        },
+        {
+            "x": -1884,
+            "z": -858,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "hidden base",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 817400091627356196
         }
     ]
 }
