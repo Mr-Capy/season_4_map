@@ -24,7 +24,8 @@
             "textColor": "white",
             "offsetX": 0,
             "offsetY": 7,
-            "font": "-"
+            "font": "-",
+            "owner": 1173850534667624473
         },
         {
             "x": -1028,
@@ -36,22 +37,6 @@
             ],
             "imageScale": 0.2,
             "text": "Honeycomb Tower",
-            "textColor": "white",
-            "offsetX": 0,
-            "offsetY": 7,
-            "font": "-",
-            "owner": 1173850534667624473
-        },
-        {
-            "x": 0,
-            "z": 0,
-            "image": "custom.pin.png",
-            "imageAnchor": [
-                0.5,
-                1
-            ],
-            "imageScale": 0.2,
-            "text": "Center",
             "textColor": "white",
             "offsetX": 0,
             "offsetY": 7,
