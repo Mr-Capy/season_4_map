@@ -58,6 +58,22 @@
             "offsetY": 7,
             "font": "-",
             "owner": 817400091627356196
+        },
+        {
+            "x": -875,
+            "z": -100,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "sculk_platform",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 817400091627356196
         }
     ]
 }
