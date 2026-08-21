@@ -10,22 +10,6 @@
                 1
             ],
             "imageScale": 0.15
-        },
-        {
-            "x": -1028,
-            "z": -270,
-            "image": "custom.pin.png",
-            "imageAnchor": [
-                0.5,
-                1
-            ],
-            "imageScale": 0.2,
-            "text": "Honeycomb Tower",
-            "textColor": "white",
-            "offsetX": 0,
-            "offsetY": 7,
-            "font": "-",
-            "owner": 1173850534667624473
         }
     ]
 }
