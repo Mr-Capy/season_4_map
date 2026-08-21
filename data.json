@@ -12,22 +12,6 @@
             "imageScale": 0.15
         },
         {
-            "x": 6,
-            "z": 7,
-            "image": "custom.pin.png",
-            "imageAnchor": [
-                0.5,
-                1
-            ],
-            "imageScale": 0.2,
-            "text": "67",
-            "textColor": "white",
-            "offsetX": 0,
-            "offsetY": 7,
-            "font": "-",
-            "owner": 817400091627356196
-        },
-        {
             "x": 728,
             "z": -328,
             "image": "custom.pin.png",
