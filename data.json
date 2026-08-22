@@ -74,6 +74,22 @@
             "offsetY": 7,
             "font": "-",
             "owner": 817400091627356196
+        },
+        {
+            "x": 16000,
+            "z": 16000,
+            "image": "custom.pin.png",
+            "imageAnchor": [
+                0.5,
+                1
+            ],
+            "imageScale": 0.2,
+            "text": "Aelfric W base",
+            "textColor": "white",
+            "offsetX": 0,
+            "offsetY": 7,
+            "font": "-",
+            "owner": 1080458988593872936
         }
     ]
 }
